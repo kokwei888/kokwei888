@@ -8,7 +8,6 @@ I am a dedicated Computer Science student specializing in Network and Security. 
 
 * 🌍  I'm based in Johor Bahru
 * ✉️  You can contact me at [gohkokwei@graduate.utm.my](mailto:gohkokwei@graduate.utm.my)
-* 🖥️  See my portfolio at [MyPortfolio](http://kokwei888.github.io/)
 * 🧠  I'm learning HTML and Javascript
 
 ### Skills
